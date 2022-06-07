@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LyNX-cell
 - 
-- 👋 My Real Name Arif Septio
+- 👋 My Name Arif Septio
 - 
 - 👀 I’m interested in Flutter 
 - 
