@@ -4,10 +4,10 @@
 - 
 - 👀 I’m interested in Flutter 
 - 
-- 🌱 I’m currently learning in Flutter 
+- 🌱 I’m currently learning in Flutter and UI/UX desain 
 - 
 - 📫 How to reach me ...
-- Bruh""
+- 
 
 <!---
 LyNX-cell/LyNX-cell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
